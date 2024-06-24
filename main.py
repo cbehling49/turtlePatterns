@@ -1,7 +1,6 @@
 """
 Project Name: Turtle Patterns
 Author: Cody Behling
-Due Date: 10/03/2020
 Course: CS1400-X01
 
 This program will ask for two inputs from a user to determine the width and height of the turtle window.
